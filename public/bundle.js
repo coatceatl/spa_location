@@ -43121,25 +43121,8 @@ var Footer = function (_Component) {
             { className: 'show-grid' },
             _react2.default.createElement(
               _reactBootstrap.Col,
-              { xs: 12, md: 8 },
-              _react2.default.createElement(
-                'code',
-                null,
-                '<',
-                'Col xs={12} md={8}',
-                ' />'
-              )
-            ),
-            _react2.default.createElement(
-              _reactBootstrap.Col,
-              { xs: 6, md: 4 },
-              _react2.default.createElement(
-                'code',
-                null,
-                '<',
-                'Col xs={6} md={4}',
-                ' />'
-              )
+              { xs: 12 },
+              '\xA9 2018'
             )
           )
         )
