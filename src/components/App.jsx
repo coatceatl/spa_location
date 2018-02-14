@@ -5,10 +5,12 @@ import {
 } from 'react-router-dom';
 
 import Header from './Header.jsx';
-//const Header = () => <h1>Header</h1>;
+import Footer from './Footer.jsx';
 const MainPage = () => <h1>MainPage</h1>
 const Review = () => <h1>Review</h1>
-const Footer = () => <h1>Footer</h1>
+
+
+  //const Footer = () => <h1>Footer</h1>
 
 class App extends Component {
   render() {
